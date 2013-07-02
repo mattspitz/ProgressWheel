@@ -12,6 +12,8 @@ import android.os.Message;
 import android.util.AttributeSet;
 import android.view.View;
 
+import com.hootcaster.genesis.app.R;
+
 /**
  * An indicator of progress, similar to Android's ProgressBar.
  * Can be used in 'spin mode' or 'increment mode'
